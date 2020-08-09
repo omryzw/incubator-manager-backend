@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/24a87ed1-c320-4280-8c21-fc91752b18dd/resourceGroups/samplex34/providers/Microsoft.Web/sites/samplex34",
+    "appService.deploySubpath": "."
+}
